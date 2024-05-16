@@ -35,8 +35,3 @@ Note:
 - Instead the share count is one of the important features. Talking from a business perspective, while likes determine the reach of a post, the share count is an important metric which determines the reach and engagement rate.
 - The base time selected is another important feature for determining the number of comments a post receives. The base time and share count combined will determine how often a post trends and in view on the audiences feed.
 - Another important feature is C2: Comment count in last 24 hrs with respect to selected base date/time
-
-## Research Paper Link
-
-Do give the below research paper from which this project was inspired a read as well. It uses a different and more advanced approach.
-https://ijssst.info/Vol-16/No-5/paper16.pdf
